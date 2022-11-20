@@ -1,0 +1,15 @@
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\bin\Debug\net6.0\Sumator.exe
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\bin\Debug\net6.0\Sumator.deps.json
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\bin\Debug\net6.0\Sumator.runtimeconfig.json
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\bin\Debug\net6.0\Sumator.dll
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\bin\Debug\net6.0\Sumator.pdb
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\Sumator.csproj.AssemblyReference.cache
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\Sumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\Sumator.AssemblyInfoInputs.cache
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\Sumator.AssemblyInfo.cs
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\Sumator.dll
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\refint\Sumator.dll
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\Sumator.pdb
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\Sumator.genruntimeconfig.cache
+C:\Users\Vili\Desktop\qa\Nunit-Sumator-Project\Sumator\obj\Debug\net6.0\ref\Sumator.dll
